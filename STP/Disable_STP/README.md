@@ -49,8 +49,6 @@ También se observa que la tabla de direcciones MAC cambia de forma constante. E
 
 ![Cambios en la tabla de direcciones MAC](imagenes/tabla-mac.png)
 
-![Demostración de la tormenta de broadcast](imagenes/tormenta-broadcast.gif)
-
 ## Conclusión
 
 STP evita los bucles de capa 2 y mantiene algunos enlaces bloqueados cuando es necesario. Desactivarlo en una topología redundante elimina esa protección y puede generar tormentas de broadcast, cambios continuos en la tabla MAC y una interrupción general del servicio.
