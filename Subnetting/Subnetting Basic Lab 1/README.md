@@ -1,5 +1,8 @@
 # Subnetting Basic Lab 1
 
+## Topología
+![Configuración de PC1](imagenes/image.png)
+
 ## Objetivo
 
 Este laboratorio practica la división de una red en subredes más pequeñas mediante el uso de una máscara de subred. El laboratorio fue realizado a partir del material de David Bombal.
