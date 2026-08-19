@@ -48,6 +48,7 @@ Con STP desactivado, los switches reciben y reenvían estos broadcasts por todos
 También se observa que la tabla de direcciones MAC cambia de forma constante. El switch aprende la misma dirección MAC por diferentes puertos, lo que produce **MAC address flapping**. En una red de mayor tamaño, este comportamiento puede causar inestabilidad y pérdida de conectividad.
 
 ![Cambios en la tabla de direcciones MAC](imagenes/tabla-mac.png)
+![Broadcast Storm](imagenes/broadcast_storm.gif)
 
 ## Conclusión
 
